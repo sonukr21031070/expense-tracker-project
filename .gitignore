@@ -1,0 +1,43 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Node / npm
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+
+# VSCode
+.vscode/
+
+# npm local binaries
+node/
+
+# built frontend
+frontend/build/
+
+# Maven wrapper
+.mvn/
+
+# Others
+*.log
+
